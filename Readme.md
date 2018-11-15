@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/CustomAppearance/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/CustomAppearance/MainWindow.xaml.vb))
+* [MainWindow.xaml.cs](./CS/CustomAppearance/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/CustomAppearance/MainWindow.xaml.vb))
+<!-- default file list end -->
 # How to customize the appearance of cells
 
 
